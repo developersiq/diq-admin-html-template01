@@ -1,0 +1,34 @@
+:root{
+    --black: #000000;
+    --grey: #696969;
+    --greylight: #ececec;
+    --white: #ffffff;
+    --red: #ff0000;
+    --orange: #ff5528;
+    --orange-light: #ff8261;
+
+    /* bg color */
+    --bg-white: #ffffff;
+    --bg-pink: #fff9f6;
+    --bg-dark:#3b2231;
+    
+    /* border radious */
+    --rounded:10px;
+    --rounded-circle:50%;
+    /* borders */
+    --border-0:1px;
+    --border: 1px;
+    --border-pink: #fdd5c7;
+    --border-greylight: #c7c7c7;
+    --border-white: #fff;
+    /* icon color */
+    --icon-orange:#ff5528;
+
+    /* font size  */
+    --small:0.80em;
+
+    /* text color */
+    --text-grey: #696969;
+
+}
+
